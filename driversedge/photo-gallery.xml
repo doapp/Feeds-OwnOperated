@@ -280,17 +280,16 @@
           expect the V60 to claim the full five stars from Euro NCA
         </media:description>
       </media:content>
-    </media:content>
-    <media:content medium="image" type="image/jpeg" url="https://icdn-7.motor1.com/images/mgl/pZZWJ/s1/2019-volvo-v60.jpg">
-      <media:title>Seeing the Volvo v60 Wagon
-      </media:title>
-      <media:credit>Volvo</media:credit>
-      <media:description>Volvo is well known for its safety tech and so the V60 is packed with its latest advances.
-        City Safe will automatically apply the brakes if it detects an imminent collision and the semi-autonomous
-        Pilot Assist system will keep you in your lane. With all that, in tandem with a vast array of airbags, we’d
-        expect the V60 to claim the full five stars from Euro NCA
-      </media:description>
-    </media:content>
+      <media:content medium="image" type="image/jpeg" url="https://icdn-7.motor1.com/images/mgl/pZZWJ/s1/2019-volvo-v60.jpg">
+        <media:title>Seeing the Volvo v60 Wagon
+        </media:title>
+        <media:credit>Volvo</media:credit>
+        <media:description>Volvo is well known for its safety tech and so the V60 is packed with its latest advances.
+          City Safe will automatically apply the brakes if it detects an imminent collision and the semi-autonomous
+          Pilot Assist system will keep you in your lane. With all that, in tandem with a vast array of airbags, we’d
+          expect the V60 to claim the full five stars from Euro NCA
+        </media:description>
+      </media:content>
     </item>
     <item>
       <title>Ferrari 488 Pista Officially Revealed With More Power, Less Weight
